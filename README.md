@@ -27,9 +27,3 @@ Um jogo interativo e divertido onde o jogador deve adivinhar um número secreto 
 1. Clone este repositório ou baixe os arquivos.
 2. Abra o arquivo `index.html` em um navegador moderno.
 3. Divirta-se tentando adivinhar o número secreto!
-
-## Melhorias Futuras
-
-- Adicionar opção de seleção de dificuldade.
-- Implementar efeitos visuais para uma experiência mais envolvente.
-- Criar uma versão responsiva para dispositivos móveis.
